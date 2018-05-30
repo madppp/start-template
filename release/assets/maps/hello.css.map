@@ -1,0 +1,1 @@
+{"version":3,"sources":["hello.scss"],"names":[],"mappings":"AAAA,KAAK,CAAC;EACF,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI,GACrB","file":"../sass/hello.css","sourcesContent":[".body {\n    margin-left: auto;\n    padding-left: 23px;\n}\n"]}
